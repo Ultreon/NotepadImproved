@@ -17,11 +17,11 @@ namespace QTextEditor
     {
         private string fileName = null;
         private string originalText;
+
         private List<string> history = new List<string>();
-        private int historyIndex = -1;
-        private bool historyChanging;
+
         PrintDocument document = new PrintDocument();
-        PrintDialog dialog = new PrintDialog();
+        private readonly PrintDialog dialog = new PrintDialog();
         private bool settingsLock;
 
         public TextBox TextBox {

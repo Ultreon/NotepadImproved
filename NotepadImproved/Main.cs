@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace QTextEditor
@@ -45,12 +38,12 @@ namespace QTextEditor
             editorForm.Show();
         }
 
-        private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
+        private void AboutToolStripMenuItem_Click(object sender, EventArgs e)
         {
             new AboutBox().ShowDialog();
         }
 
-        private void aboutToolStripMenuItem1_Click(object sender, EventArgs e)
+        private void AboutToolStripMenuItem1_Click(object sender, EventArgs e)
         {
             new AboutBox().ShowDialog();
         }

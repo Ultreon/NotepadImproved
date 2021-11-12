@@ -19,3 +19,6 @@ D:\Github\NotepadImproved\NotepadImproved\obj\Release\nl\QTextEditor.resources.d
 D:\Github\NotepadImproved\NotepadImproved\obj\Release\en-US\QTextEditor.resources.dll
 D:\Github\NotepadImproved\NotepadImproved\obj\Release\QTextEditor.exe
 D:\Github\NotepadImproved\NotepadImproved\obj\Release\QTextEditor.pdb
+Y:\Digibende\Amstelveen\Kandidaten\Programmeren\Quinten.Jungblut\VS-Solutions\NotepadImproved\NotepadImproved\obj\Release\NotepadImproved.csprojAssemblyReference.cache
+Y:\Digibende\Amstelveen\Kandidaten\Programmeren\Quinten.Jungblut\VS-Solutions\NotepadImproved\NotepadImproved\obj\Release\QTextEditor.exe
+Y:\Digibende\Amstelveen\Kandidaten\Programmeren\Quinten.Jungblut\VS-Solutions\NotepadImproved\NotepadImproved\obj\Release\QTextEditor.pdb
