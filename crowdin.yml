@@ -1,0 +1,5 @@
+files:
+  - source: /NotepadImproved/EditorMain.en-US.resx
+    translation: '%original_path%/EditorMain.%locale%.resx'
+  - source: /NotepadImproved/Main.resx
+    translation: /NotepadImproved/Main.%locale%.resx
